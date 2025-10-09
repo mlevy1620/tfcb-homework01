@@ -12,5 +12,5 @@ University of Washington [homepage] (https://www.washington.edu/)
 AntWiki which I just found and am VERY excited about (https://antwiki.org/wiki/Formicinae)
 
 ## Ant picture
-Chose this one as my favorite
+Chose this one as my favorite:   
 ![Ant picture] (images/Rhytidoponera_metallica.jpg)

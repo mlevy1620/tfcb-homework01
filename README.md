@@ -13,4 +13,4 @@ AntWiki which I just found and am VERY excited about (https://antwiki.org/wiki/F
 
 ## Ant picture
 Chose this one as my favorite
-![/images/Rhytidoponera_metallica.jpg]
+![Ant picture] (images/Rhytidoponera_metallica.jpg)

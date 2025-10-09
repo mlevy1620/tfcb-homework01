@@ -6,7 +6,7 @@
 - complete homework01
 
 ## Important Note
-Regarding the tidy data frame we were asked to make, using tab-delimited csv format with linux line endings: I was able to export a .csv file and convert to linux line endings, or esport as a .txt file and convert to linux line endings, but when I converted a .txt file back to a .csv it looked wrong on github.
+Regarding the tidy data frame we were asked to make, using tab-delimited csv format with linux line endings: I was able to export a .csv file and convert to linux line endings, or export as a .txt file and convert to linux line endings, but when I converted a .txt file back to a .csv it looked wrong on github.
 
 ## Repository
 - Specimen images contained in images

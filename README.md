@@ -1,7 +1,8 @@
 # tfcb-homework01
 # Useful Information
 ## Purpose
-- Identify *genera* and *species* of ants
+- Identify *Genus* and *species* of ants
+  - Pictures of selected species under their scientific names, including [Acanthomyrmex ferox](images/Acanthomyrmex_ferox.jpg)
 - Demonstrate **__very__** basic github proficiency
 - complete homework01
 
